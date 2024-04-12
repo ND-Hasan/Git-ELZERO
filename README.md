@@ -1,1 +1,3 @@
 # Git-ELZERO
+
+##project notes
